@@ -1,5 +1,6 @@
 require 'pronto'
 require 'rubocop'
+require 'rubocop-rails'
 require 'pronto/rubocop/patch_cop'
 require 'pronto/rubocop/offense_line'
 
